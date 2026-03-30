@@ -18,14 +18,17 @@ This repository contains a comprehensive digital portfolio developed to demonstr
 ### [Module 1: Digital Literacy Presentation](./task-1-presentation/)
 * **Objective:** Visual communication of core digital competencies.
 * **Deliverable:** A high-visibility, yellow-themed educational infographic designed in **Canva**, focusing on branding, security, and essential tools for CSE students.
+* **Infographic link:** https://canva.link/nk4foplx0ui4yhi
 
 ### [Module 2: Building a Student Digital Portfolio](./task-2-portfolio/)
 * **Objective:** Establishing a unified professional identity.
 * **Deliverable:** Optimized profiles on **GitHub**, **LinkedIn**, and **Stack Overflow**, curated to highlight technical projects in **Java** and **Spring Boot**.
+* **GitHub Link:** https://github.com/UjjwalSharma2304
 
 ### [Module 3: Explore Coding & Collaboration Platforms](./task-3-platforms/)
 * **Objective:** Demonstrating technical logic and data-driven collaboration.
 * **Deliverable:** Verified **HackerRank** Python challenge completion and a **Google Workspace** integration (Forms + Sheets) for real-time data collection.
+* **Google Form link:** https://docs.google.com/forms/d/e/1FAIpQLSeK3J1zncKpmImTFEjQ6zXWF_W5sq-2HsYCo36yR2oVf67PPA/viewform?usp=header
 
 ### [Module 4: Professional Email & Etiquette](./task-4-email-etiquette/)
 * **Objective:** Mastering academic and corporate digital communication.
